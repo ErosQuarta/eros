@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio1              : "Behavioral Neurophysiologist"
-  bio2              : "Postdoctoral researcher <br /> at Sapienza University of Rome <br /> Dept. of Physiology and Pharmacology"
+  bio              : "Behavioral Neurophysiologist"
+  # "Postdoctoral researcher <br /> at Sapienza University of Rome <br /> Dept. of Physiology and Pharmacology"
 
   location         : "Rome, Italy"
   employer         : "Postdoctoral researcher <br /> at Sapienza University of Rome <br /> Dept. of Physiology and Pharmacology"
