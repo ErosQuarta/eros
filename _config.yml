@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Neuroscientist @Sapienza University of Rome"
+  bio              : "Behavioral Neurophysiologist"
   location         : "Rome, Italy"
-  employer         :
+  employer         : "Postdoctoral researcher at Sapienza University of Rome, Dept. of Physiology and Pharmacology"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=eros+quarta+[author]"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=1EWHo5kAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
