@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Eros Quarta"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Eros Quarta"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Neuroscientist"
-  location         : "Location"
+  bio              : "Neuroscientist @Sapienza University of Rome"
+  location         : "Rome, Italy"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=eros+quarta+[author]"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=1EWHo5kAAAAJ&view_op=list_works&sortby=pubdate"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/ErosQuarta"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/ErosQuarta42514"
+  twitter          : "https://twitter.com/ErosQuarta"
   vine             :
   weibo            :
   xing             :
