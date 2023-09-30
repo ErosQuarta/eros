@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://erosquarta.github.io/eros/cv/
     
   - title: "Guide"
     url: /markdown/
