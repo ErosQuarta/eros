@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /files/QuartaCV2023.pdf
 ---
 
 {% include base_path %}
